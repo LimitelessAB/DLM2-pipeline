@@ -1,5 +1,5 @@
 # DLM2-pipeline (DustPy Linked to MCFOST and Dark Lane Measurements pipeline)
-### Attention!!! Please note this code requires the user to have already installed DustPy python module, PyMCFOST python module, and MCFOST!
+### Attention! Please note this code requires the user to have already installed DustPy python module, PyMCFOST python module, and MCFOST!
 - DustPy: <https://github.com/stammler/dustpy.git>
 - MCFOST: <https://github.com/cpinte/mcfost.git>
 - PyMCFOST: <https://github.com/cpinte/pymcfost.git>
