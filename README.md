@@ -10,3 +10,6 @@ DLM2-pipeline is a tool that assembles into one function call:
 3. Launching MCFOST
 4. Convolving resulting images with instrument PSF
 5. Measuring dark lanes and radius following a method described in Duchêne et al. 2024: <https://iopscience.iop.org/article/10.3847/1538-3881/acf9a7>.
+
+## Installing:
+Run into your terminal : $pip install git+https://github.com/LimitelessAB/DLM2-pipeline.git
