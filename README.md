@@ -1,3 +1,4 @@
+<img width="125" height="109" alt="image" src="https://github.com/user-attachments/assets/a08e1fa2-5453-4e94-ae57-cd2936397581" />
 # DLM2-pipeline (DustPy Linked to MCFOST and Dark Lane Measurements pipeline)
 ### Attention! Please note this code requires the user to have already installed DustPy python module, PyMCFOST python module, and MCFOST!
 - DustPy: <https://github.com/stammler/dustpy.git>
